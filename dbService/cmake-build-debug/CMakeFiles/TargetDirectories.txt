@@ -1,6 +1,0 @@
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/CMakeFiles/dbService.dir
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/lib/CMakeFiles/lib.dir
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/home/roy12/CLionProjects/Linux-Assignment/linux_child/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
