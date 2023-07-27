@@ -46,7 +46,7 @@ After fetching the Database with some initial data (using function number 1), yo
 
  ## Release
 
-In the release window on the right-hand side of the FlightScanner program, you will have two options to download different setups for the program:
+In the release window on the right-hand side, you will have two options to download different setups for the program:
 
 ### Setup with DockerHub
  * This setup provides a convenient way to run the FlightScanner application by utilizing DockerHub.
