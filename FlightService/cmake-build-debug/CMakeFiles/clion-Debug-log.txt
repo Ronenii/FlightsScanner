@@ -1,4 +1,0 @@
-/home/roy12/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/roy12/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/roy12/CLionProjects/Linux-Assignment/linux_parent -B /home/roy12/CLionProjects/Linux-Assignment/linux_parent/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/roy12/CLionProjects/Linux-Assignment/linux_parent/cmake-build-debug
