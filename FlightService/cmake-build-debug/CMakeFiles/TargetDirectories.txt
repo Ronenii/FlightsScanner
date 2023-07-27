@@ -1,0 +1,3 @@
+/home/roy12/CLionProjects/Linux-Assignment/linux_parent/cmake-build-debug/CMakeFiles/FlightService.dir
+/home/roy12/CLionProjects/Linux-Assignment/linux_parent/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roy12/CLionProjects/Linux-Assignment/linux_parent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
